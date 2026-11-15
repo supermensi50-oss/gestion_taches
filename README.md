@@ -34,3 +34,4 @@ méthode d'exécution :
 4. dans le terminal en bas, taper un choix (1, 2, 3 ou 0) puis appuyer sur entrée
 5. taper 0 pour quitter
 version 2 : amelioration du projet
+
